@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/abstract-classes/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/abstract-classes/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/abstract-classes/build" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/build" />
+      <excludeFolder url="file://$MODULE_DIR$/constructors/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/constructors/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/constructors/build" />
+      <excludeFolder url="file://$MODULE_DIR$/http/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/http/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/http/build" />
+      <excludeFolder url="file://$MODULE_DIR$/imports/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/imports/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/imports/build" />
+      <excludeFolder url="file://$MODULE_DIR$/inheritance/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/inheritance/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/inheritance/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mixins/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/mixins/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mixins/build" />
+      <excludeFolder url="file://$MODULE_DIR$/parsing-rss-feed/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/parsing-rss-feed/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/parsing-rss-feed/build" />
+      <excludeFolder url="file://$MODULE_DIR$/scope/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/scope/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/scope/build" />
+      <excludeFolder url="file://$MODULE_DIR$/setter-getter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/setter-getter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/setter-getter/build" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>

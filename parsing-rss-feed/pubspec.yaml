@@ -1,0 +1,11 @@
+name: dart_learning
+description: A sample command-line application.
+version: 0.0.1
+
+environment:
+  sdk: '2.10.1'
+
+dependencies:
+  http: "^0.11.3+16"
+  path: ^1.4.1
+  webfeed: ^0.6.0

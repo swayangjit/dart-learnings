@@ -1,0 +1,13 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "dart_learning",
+      "rootUri": "../",
+      "packageUri": "lib/"
+    }
+  ],
+  "generated": "2020-10-17T18:09:34.154538Z",
+  "generator": "pub",
+  "generatorVersion": "2.10.1"
+}
